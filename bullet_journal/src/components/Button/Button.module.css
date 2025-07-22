@@ -1,0 +1,20 @@
+.button {
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.blue {
+  background-color: #007bff;
+}
+
+.red {
+  background-color: #ff4c4c;
+}
+
+.green {
+  background-color: #28a745;
+}
